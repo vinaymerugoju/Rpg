@@ -1,0 +1,7 @@
+com\rvdev\rpgdev\BaseEntity.class
+com\rvdev\rpgdev\registration\RegistrationService.class
+com\rvdev\rpgdev\App.class
+com\rvdev\rpgdev\AdminRegistration.class
+com\rvdev\rpgdev\registration\RegistrationDTo.class
+com\rvdev\rpgdev\registration\RegistrationRepo.class
+com\rvdev\rpgdev\registration\RegistrationController.class
